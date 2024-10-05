@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yawar788&label=Profile%20views&color=0e75b6&style=flat" alt="yawar788" /> </p>
 
-<p align="left"> <a href="https://twitter.com/awarabbas134" target="blank"><img src="https://img.shields.io/twitter/follow/awarabbas134?logo=twitter&style=for-the-badge" alt="awarabbas134" /></a> </p>
+<p align="left"> <a href="https://twitter.com/awarabbas134" target="blank"><img src="https://img.shields.io/twitter/follow/awarabbas134?logo=twitter&style=for-the-badge" alt="yawarabbas134" /></a> </p>
 
 - 🔭 I’m currently working on **#JavaScript#Node.js**
 
