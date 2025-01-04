@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yawarabbas134" target="blank"><img src="https://img.shields.io/twitter/follow/awarabbas134?logo=twitter&style=for-the-badge" alt="yawarabbas134" /></a> </p>
 
-- 🔭 I’m currently working on **#JavaScript#Node.js**
+- 🔭 I’m currently working on **#JavaScript#React#Node.js**
 
 - 💬 Ask me about **Javascript, CSS, HTML, Python, Java**
 
