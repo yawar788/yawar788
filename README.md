@@ -5,7 +5,7 @@
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yawar788&label=Profile%20views&color=0e75b6&style=flat" alt="yawar788" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yawarabbas134" target="blank"><img src="https://img.shields.io/twitter/follow/awarabbas134?logo=twitter&style=for-the-badge" alt="yawarabbas134" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yawarabbas134" target="blank"><img src="https://img.shields.io/twitter/follow/yawarabbas134?logo=twitter&style=for-the-badge" alt="yawarabbas134" /></a> </p>
 
 - 🔭 I’m currently working on **#JavaScript#React#Node.js**
 
@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yawarabbas134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awarabbas134" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yawar-abbas-mirani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yawar-abbas-mirani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yawar-abbas-mirani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yawar-abbas-mirani" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://kaggle.com/yawar123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://kaggle.com/yawar123" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/yawarabbas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/yawarabbas/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/yawarabbas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/yawarabbas/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,3 +27,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yawar788&show_icons=true&locale=en&layout=compact" alt="yawar788" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yawar788&show_icons=true&locale=en" alt="yawar788" /></p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yawar788&theme=tokyonight)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=yawar788&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yawar788&layout=compact&theme=tokyonight)
+
