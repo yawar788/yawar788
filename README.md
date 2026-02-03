@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yawar788&show_icons=true&locale=en&layout=compact" alt="yawar788" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yawar788&show_icons=true&locale=en" alt="yawar788" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yawar788&" alt="yawar788" /></p>
