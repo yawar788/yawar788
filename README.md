@@ -28,8 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yawar788&show_icons=true&locale=en" alt="yawar788" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yawar788&theme=tokyonight)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=yawar788&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yawar788&layout=compact&theme=tokyonight)
 
